@@ -1,0 +1,14 @@
+.reserve_var {
+    color: crimson;
+    padding: 2px;
+}
+
+.reserve_let {
+    color: blue;
+    padding: 2px;
+}
+
+.reserve_const {
+    color: green;
+    padding: 2px;
+}
